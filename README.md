@@ -14,11 +14,11 @@
 
 ### 👩‍💻 About Me
 
-I'm a **Computer Science undergraduate** at **The University of Azad Jammu & Kashmir** with a strong passion for programming, AI, and cybersecurity.
+I'm a **Computer Science Undergraduate** at **The University of Azad Jammu & Kashmir** with a strong passion for programming, AI, and cybersecurity.
 
 - 🔭 Currently learning **AI & Machine Learning** for security applications
 - 🌱 Sharpening skills through hands-on **Python Automation** projects
-- 🛡️ Interested in building **Secure, Intelligent Digital Systems**
+- 🛡️ Interested in building **Secure, Intelligent Digital systems**
 - 🎯 Goal: Real-world experience, collaboration, and continuous growth
 - 📍 Muzaffarabad, Azad Kashmir, Pakistan
 
@@ -27,14 +27,12 @@ I'm a **Computer Science undergraduate** at **The University of Azad Jammu & Kas
 
 ### ⚡ Quick Stats
 
-```yaml
-**Name** : "Laiba Wajid"
-**Role** : "CS Student & AI/ML Enthusiast"
-**University** : "UAJK (BS Computer Science & IT)"
-**Duration** : "2025 - 2029"
-**Focus** : ["Python", "AI/ML", "Cybersecurity", "Web Dev"]
-**Status** : "Open to internships & collaborations"
-```
+**Name** : Laiba Wajid
+**Role** : CS Student & AI/ML Enthusiast
+**University** : UAJK (BS Computer Science & IT)
+**Duration** : 2025 - 2029
+**Focus** : Python, AI/ML, Cybersecurity, Web Dev
+**Status** : Open to internships & collaborations
 
 </td>
 </tr>
@@ -52,7 +50,7 @@ I'm a **Computer Science undergraduate** at **The University of Azad Jammu & Kas
 Bachelor's Degree, Computer Science and IT
 `Sep 2025 – Sep 2029`
 
-Activities: Programming · Online AI & ML , Ethical Hacking and Cybersecurity · Problem Solving Exercises
+Activities: Programming · Online AI & ML · Problem Solving Exercises
 
 </td>
 </tr>
