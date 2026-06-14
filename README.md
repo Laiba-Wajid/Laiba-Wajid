@@ -27,12 +27,12 @@ I'm a **Computer Science Undergraduate** at **The University of Azad Jammu & Kas
 
 ### ⚡ Quick Stats
 
-**Name** : Laiba Wajid
-**Role** : CS Student & AI/ML Enthusiast
-**University** : UAJK (BS Computer Science & IT)
-**Duration** : 2025 - 2029
-**Focus** : Python, AI/ML, Cybersecurity, Web Dev
-**Status** : Open to internships & collaborations
+- **Name** : Laiba Wajid
+- **Role** : Computer Science Student
+- **University** : UAJK (BS Computer Science & IT)
+- **Duration** : 2025 - 2029
+- **Focus** : Python, AI/ML, Cybersecurity, Web Dev
+- **Status** : Open to internships & collaborations
 
 </td>
 </tr>
