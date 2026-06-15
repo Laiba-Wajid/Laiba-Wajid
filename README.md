@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Laiba%20Wajid&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=CS%20Student%20|%20AI%20%26%20Cybersecurity%20Enthusiast%20|%20Python%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=Status%3A+Operational+Mode+%F0%9F%9F%A2;Building+secure+%26+smart+digital+systems...;Learning+AI+%2F+ML+%2F+Cybersecurity...;Python+%7C+C%2B%2B+%7C+Web+Dev+%7C+Automation" />
+![Banner](./banner.gif)
 
 </div>
 
@@ -196,7 +194,5 @@ GUI implementation of the library system demonstrating programming fundamentals 
 <div align="center">
 
 ### 💬 "Building secure and smart digital systems, one line of code at a time."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
 
 </div>
